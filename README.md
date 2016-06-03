@@ -4,3 +4,8 @@
 ```
 npm install
 ```
+
+To generate stylesheets:  
+```
+cd static; gulp sass
+```
