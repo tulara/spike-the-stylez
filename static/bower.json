@@ -1,5 +1,7 @@
 {
   "name": "stylez-spike",
   "version": "0.0.1",
-  "dependencies": {}
+  "dependencies": {
+    "unsemantic": "^1.1.3"
+  }
 }
