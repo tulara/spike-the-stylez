@@ -1,0 +1,22 @@
+{
+  "name": "stylez-spike",
+  "version": "0.0.1",
+  "description": "all the styles",
+  "author": "Tulara <tulara.webster@gmail.com>",
+  "dependencies": {
+    "bower": "*",
+    "gulp": "3.8.11",
+    "gulp-concat": "2.5.2",
+    "gulp-cssmin": "0.1.7",
+    "gulp-uglify": "1.2.0",
+    "rimraf": "2.2.8"
+  },
+  "devDependencies": {
+    "jasmine": "*"
+  },
+  "scripts": {
+    "install": "bower install",
+    "start": "echo \"Hook up dnx here I presume!\" && exit 1"
+  },
+  "license": "MIT"
+}
