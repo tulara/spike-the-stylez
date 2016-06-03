@@ -1,4 +1,4 @@
 static/node_modules/*
-static/sass/vendor/*
+static/assets/vendor/*
 static/dist/*
 npm-debug.log
