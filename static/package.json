@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "description": "all the styles",
   "author": "Tulara <tulara.webster@gmail.com>",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "*",
     "gulp": "*",
-    "gulp-sass": "^2.3.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^2.3.1"
   },
   "scripts": {
     "install": "bower install",
