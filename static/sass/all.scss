@@ -1,5 +1,7 @@
 @import "partials/colours";
+@import "vendor/unsemantic/assets/sass/unsemantic-grid-responsive-tablet";
 
 .content {
 	background-color: $backgroundSite;
+	@extend .grid-100
 }
